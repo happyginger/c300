@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateWord", "CreateWord\CreateWord.csproj", "{CC660685-8C6D-497A-B78C-78AD0CBCD284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeOperator", "OfficeOperator\OfficeOperator.csproj", "{8F6F8928-4383-4665-AB2B-316274E3195B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateExcel", "CreateExcel\CreateExcel.csproj", "{C0FB9D5E-66BF-4F47-B7FB-C18FE53BB735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenExcel", "OpenExcel\OpenExcel.csproj", "{4515F27B-AD0D-4D8E-9805-D8989E33CFFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenWord", "OpenWord\OpenWord.csproj", "{CA66A4C5-9E8D-408E-8313-D7728C8D880A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例190  至  实例196", "实例190  至  实例196", "{8056E137-D48D-4DE5-880A-430866A17CD9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例198  至  实例200", "实例198  至  实例200", "{851AFE6E-221D-4DAA-A8FE-E36D164B1340}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例197  读取Word文档中的表格", "实例197  读取Word文档中的表格", "{BC54DBC2-2270-43BD-B9AA-6714A03DE787}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例201  读取Excel表格", "实例201  读取Excel表格", "{48F8F8CA-AD5E-44F5-97C1-CB3C5FE6178B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC660685-8C6D-497A-B78C-78AD0CBCD284}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CC660685-8C6D-497A-B78C-78AD0CBCD284}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{CC660685-8C6D-497A-B78C-78AD0CBCD284}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{CC660685-8C6D-497A-B78C-78AD0CBCD284}.Debug|x86.ActiveCfg = Debug|x86
+		{CC660685-8C6D-497A-B78C-78AD0CBCD284}.Debug|x86.Build.0 = Debug|x86
+		{CC660685-8C6D-497A-B78C-78AD0CBCD284}.Release|Any CPU.ActiveCfg = Release|x86
+		{CC660685-8C6D-497A-B78C-78AD0CBCD284}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{CC660685-8C6D-497A-B78C-78AD0CBCD284}.Release|Mixed Platforms.Build.0 = Release|x86
+		{CC660685-8C6D-497A-B78C-78AD0CBCD284}.Release|x86.ActiveCfg = Release|x86
+		{CC660685-8C6D-497A-B78C-78AD0CBCD284}.Release|x86.Build.0 = Release|x86
+		{8F6F8928-4383-4665-AB2B-316274E3195B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6F8928-4383-4665-AB2B-316274E3195B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6F8928-4383-4665-AB2B-316274E3195B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{8F6F8928-4383-4665-AB2B-316274E3195B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{8F6F8928-4383-4665-AB2B-316274E3195B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8F6F8928-4383-4665-AB2B-316274E3195B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6F8928-4383-4665-AB2B-316274E3195B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F6F8928-4383-4665-AB2B-316274E3195B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{8F6F8928-4383-4665-AB2B-316274E3195B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{8F6F8928-4383-4665-AB2B-316274E3195B}.Release|x86.ActiveCfg = Release|Any CPU
+		{C0FB9D5E-66BF-4F47-B7FB-C18FE53BB735}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C0FB9D5E-66BF-4F47-B7FB-C18FE53BB735}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{C0FB9D5E-66BF-4F47-B7FB-C18FE53BB735}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{C0FB9D5E-66BF-4F47-B7FB-C18FE53BB735}.Debug|x86.ActiveCfg = Debug|x86
+		{C0FB9D5E-66BF-4F47-B7FB-C18FE53BB735}.Debug|x86.Build.0 = Debug|x86
+		{C0FB9D5E-66BF-4F47-B7FB-C18FE53BB735}.Release|Any CPU.ActiveCfg = Release|x86
+		{C0FB9D5E-66BF-4F47-B7FB-C18FE53BB735}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{C0FB9D5E-66BF-4F47-B7FB-C18FE53BB735}.Release|Mixed Platforms.Build.0 = Release|x86
+		{C0FB9D5E-66BF-4F47-B7FB-C18FE53BB735}.Release|x86.ActiveCfg = Release|x86
+		{C0FB9D5E-66BF-4F47-B7FB-C18FE53BB735}.Release|x86.Build.0 = Release|x86
+		{4515F27B-AD0D-4D8E-9805-D8989E33CFFB}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4515F27B-AD0D-4D8E-9805-D8989E33CFFB}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{4515F27B-AD0D-4D8E-9805-D8989E33CFFB}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{4515F27B-AD0D-4D8E-9805-D8989E33CFFB}.Debug|x86.ActiveCfg = Debug|x86
+		{4515F27B-AD0D-4D8E-9805-D8989E33CFFB}.Debug|x86.Build.0 = Debug|x86
+		{4515F27B-AD0D-4D8E-9805-D8989E33CFFB}.Release|Any CPU.ActiveCfg = Release|x86
+		{4515F27B-AD0D-4D8E-9805-D8989E33CFFB}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{4515F27B-AD0D-4D8E-9805-D8989E33CFFB}.Release|Mixed Platforms.Build.0 = Release|x86
+		{4515F27B-AD0D-4D8E-9805-D8989E33CFFB}.Release|x86.ActiveCfg = Release|x86
+		{4515F27B-AD0D-4D8E-9805-D8989E33CFFB}.Release|x86.Build.0 = Release|x86
+		{CA66A4C5-9E8D-408E-8313-D7728C8D880A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CA66A4C5-9E8D-408E-8313-D7728C8D880A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{CA66A4C5-9E8D-408E-8313-D7728C8D880A}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{CA66A4C5-9E8D-408E-8313-D7728C8D880A}.Debug|x86.ActiveCfg = Debug|x86
+		{CA66A4C5-9E8D-408E-8313-D7728C8D880A}.Debug|x86.Build.0 = Debug|x86
+		{CA66A4C5-9E8D-408E-8313-D7728C8D880A}.Release|Any CPU.ActiveCfg = Release|x86
+		{CA66A4C5-9E8D-408E-8313-D7728C8D880A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{CA66A4C5-9E8D-408E-8313-D7728C8D880A}.Release|Mixed Platforms.Build.0 = Release|x86
+		{CA66A4C5-9E8D-408E-8313-D7728C8D880A}.Release|x86.ActiveCfg = Release|x86
+		{CA66A4C5-9E8D-408E-8313-D7728C8D880A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC660685-8C6D-497A-B78C-78AD0CBCD284} = {8056E137-D48D-4DE5-880A-430866A17CD9}
+		{C0FB9D5E-66BF-4F47-B7FB-C18FE53BB735} = {851AFE6E-221D-4DAA-A8FE-E36D164B1340}
+		{CA66A4C5-9E8D-408E-8313-D7728C8D880A} = {BC54DBC2-2270-43BD-B9AA-6714A03DE787}
+		{4515F27B-AD0D-4D8E-9805-D8989E33CFFB} = {48F8F8CA-AD5E-44F5-97C1-CB3C5FE6178B}
+	EndGlobalSection
+EndGlobal

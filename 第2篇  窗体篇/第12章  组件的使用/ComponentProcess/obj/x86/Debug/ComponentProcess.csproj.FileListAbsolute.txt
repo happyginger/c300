@@ -1,0 +1,7 @@
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentProcess\bin\Debug\ComponentProcess.exe
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentProcess\bin\Debug\ComponentProcess.pdb
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentProcess\obj\x86\Debug\ComponentProcess.FormProcess.resources
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentProcess\obj\x86\Debug\ComponentProcess.Properties.Resources.resources
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentProcess\obj\x86\Debug\ComponentProcess.csproj.GenerateResource.Cache
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentProcess\obj\x86\Debug\ComponentProcess.exe
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentProcess\obj\x86\Debug\ComponentProcess.pdb

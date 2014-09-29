@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallUser32", "CallUser32\CallUser32.csproj", "{BE462EBC-340A-4D6F-804E-8C2E79B91A98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPPDllImport", "CPPDllImport\CPPDllImport.csproj", "{E21B59A8-159B-40DD-B32F-C66732FC74AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestCPPDLL", "TestCPPDLL\TestCPPDLL.vcxproj", "{D738EC67-99B8-4F08-8617-4C4CCB319DA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例271  利用WIN32的API改变窗体属性  实例272  利用WIN32的API任意拖动窗体", "实例271  利用WIN32的API改变窗体属性  实例272  利用WIN32的API任意拖动窗体", "{FCD29458-84B8-4C86-A890-F675A995C8D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例266  至  实例270", "实例266  至  实例270", "{240F4373-7856-4383-B1B3-436F1EFE3F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE462EBC-340A-4D6F-804E-8C2E79B91A98}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{BE462EBC-340A-4D6F-804E-8C2E79B91A98}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{BE462EBC-340A-4D6F-804E-8C2E79B91A98}.Debug|Win32.ActiveCfg = Debug|x86
+		{BE462EBC-340A-4D6F-804E-8C2E79B91A98}.Debug|x86.ActiveCfg = Debug|x86
+		{BE462EBC-340A-4D6F-804E-8C2E79B91A98}.Debug|x86.Build.0 = Debug|x86
+		{BE462EBC-340A-4D6F-804E-8C2E79B91A98}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{BE462EBC-340A-4D6F-804E-8C2E79B91A98}.Release|Mixed Platforms.Build.0 = Release|x86
+		{BE462EBC-340A-4D6F-804E-8C2E79B91A98}.Release|Win32.ActiveCfg = Release|x86
+		{BE462EBC-340A-4D6F-804E-8C2E79B91A98}.Release|x86.ActiveCfg = Release|x86
+		{BE462EBC-340A-4D6F-804E-8C2E79B91A98}.Release|x86.Build.0 = Release|x86
+		{E21B59A8-159B-40DD-B32F-C66732FC74AA}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{E21B59A8-159B-40DD-B32F-C66732FC74AA}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{E21B59A8-159B-40DD-B32F-C66732FC74AA}.Debug|Win32.ActiveCfg = Debug|x86
+		{E21B59A8-159B-40DD-B32F-C66732FC74AA}.Debug|x86.ActiveCfg = Debug|x86
+		{E21B59A8-159B-40DD-B32F-C66732FC74AA}.Debug|x86.Build.0 = Debug|x86
+		{E21B59A8-159B-40DD-B32F-C66732FC74AA}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{E21B59A8-159B-40DD-B32F-C66732FC74AA}.Release|Mixed Platforms.Build.0 = Release|x86
+		{E21B59A8-159B-40DD-B32F-C66732FC74AA}.Release|Win32.ActiveCfg = Release|x86
+		{E21B59A8-159B-40DD-B32F-C66732FC74AA}.Release|x86.ActiveCfg = Release|x86
+		{E21B59A8-159B-40DD-B32F-C66732FC74AA}.Release|x86.Build.0 = Release|x86
+		{D738EC67-99B8-4F08-8617-4C4CCB319DA9}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{D738EC67-99B8-4F08-8617-4C4CCB319DA9}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{D738EC67-99B8-4F08-8617-4C4CCB319DA9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D738EC67-99B8-4F08-8617-4C4CCB319DA9}.Debug|Win32.Build.0 = Debug|Win32
+		{D738EC67-99B8-4F08-8617-4C4CCB319DA9}.Debug|x86.ActiveCfg = Debug|Win32
+		{D738EC67-99B8-4F08-8617-4C4CCB319DA9}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{D738EC67-99B8-4F08-8617-4C4CCB319DA9}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{D738EC67-99B8-4F08-8617-4C4CCB319DA9}.Release|Win32.ActiveCfg = Release|Win32
+		{D738EC67-99B8-4F08-8617-4C4CCB319DA9}.Release|Win32.Build.0 = Release|Win32
+		{D738EC67-99B8-4F08-8617-4C4CCB319DA9}.Release|x86.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BE462EBC-340A-4D6F-804E-8C2E79B91A98} = {FCD29458-84B8-4C86-A890-F675A995C8D2}
+		{E21B59A8-159B-40DD-B32F-C66732FC74AA} = {240F4373-7856-4383-B1B3-436F1EFE3F13}
+		{D738EC67-99B8-4F08-8617-4C4CCB319DA9} = {240F4373-7856-4383-B1B3-436F1EFE3F13}
+	EndGlobalSection
+EndGlobal

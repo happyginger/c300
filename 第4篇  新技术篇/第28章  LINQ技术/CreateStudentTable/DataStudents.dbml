@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Class="DataStudentsDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="" Member="student">
+    <Type Name="student">
+      <Column Name="id" AutoSync="Never" Type="System.Guid" IsReadOnly="true" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" CanBeNull="false" />
+      <Column Name="sex" Type="System.String" CanBeNull="false" />
+      <Column Name="grade" Type="System.UInt32" CanBeNull="false" />
+      <Column Name="result" Type="System.UInt32" CanBeNull="false" />
+      <Column Name="age" Type="System.UInt32" CanBeNull="false" />
+      <Column Name="number" Type="System.UInt32" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

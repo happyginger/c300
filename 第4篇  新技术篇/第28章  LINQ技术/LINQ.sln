@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateStudentTable", "CreateStudentTable\CreateStudentTable.csproj", "{F026D52D-DCF6-491C-91FF-203EA0ACA721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateStudentList", "CreateStudentList\CreateStudentList.csproj", "{C5010079-CF6A-4738-9D97-C8F5A06C1EF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例281  至  实例284", "实例281  至  实例284", "{C7FEC5BF-33DD-4714-BEA4-C86587056400}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例285  至  实例293", "实例285  至  实例293", "{1022875C-F776-422C-BE30-D6CF3CC8333E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F026D52D-DCF6-491C-91FF-203EA0ACA721}.Debug|x86.ActiveCfg = Debug|x86
+		{F026D52D-DCF6-491C-91FF-203EA0ACA721}.Debug|x86.Build.0 = Debug|x86
+		{F026D52D-DCF6-491C-91FF-203EA0ACA721}.Release|x86.ActiveCfg = Release|x86
+		{F026D52D-DCF6-491C-91FF-203EA0ACA721}.Release|x86.Build.0 = Release|x86
+		{C5010079-CF6A-4738-9D97-C8F5A06C1EF1}.Debug|x86.ActiveCfg = Debug|x86
+		{C5010079-CF6A-4738-9D97-C8F5A06C1EF1}.Debug|x86.Build.0 = Debug|x86
+		{C5010079-CF6A-4738-9D97-C8F5A06C1EF1}.Release|x86.ActiveCfg = Release|x86
+		{C5010079-CF6A-4738-9D97-C8F5A06C1EF1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C5010079-CF6A-4738-9D97-C8F5A06C1EF1} = {C7FEC5BF-33DD-4714-BEA4-C86587056400}
+		{F026D52D-DCF6-491C-91FF-203EA0ACA721} = {1022875C-F776-422C-BE30-D6CF3CC8333E}
+	EndGlobalSection
+EndGlobal

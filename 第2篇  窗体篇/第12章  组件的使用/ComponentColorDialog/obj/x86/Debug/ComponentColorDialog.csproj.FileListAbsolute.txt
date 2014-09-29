@@ -1,0 +1,7 @@
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentColorDialog\bin\Debug\ComponentColorDialog.exe
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentColorDialog\bin\Debug\ComponentColorDialog.pdb
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentColorDialog\obj\x86\Debug\ComponentColorDialog.FormColorDialog.resources
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentColorDialog\obj\x86\Debug\ComponentColorDialog.Properties.Resources.resources
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentColorDialog\obj\x86\Debug\ComponentColorDialog.csproj.GenerateResource.Cache
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentColorDialog\obj\x86\Debug\ComponentColorDialog.exe
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentColorDialog\obj\x86\Debug\ComponentColorDialog.pdb

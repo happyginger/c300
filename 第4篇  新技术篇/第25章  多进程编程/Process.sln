@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProcess", "MainProcess\MainProcess.csproj", "{599390BD-752E-4EBD-A917-B5EEA1A8A26A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubProcess", "SubProcess\SubProcess.csproj", "{E746D141-17BF-426C-BF6F-4FFC4A6D779D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager", "TaskManager\TaskManager.csproj", "{80E336F9-EE95-4CA4-93E3-7AC6CDE693A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceManager", "ServiceManager\ServiceManager.csproj", "{66E74F66-93D9-49C0-BDF9-E353576ECF0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizationProcess", "SynchronizationProcess\SynchronizationProcess.csproj", "{67D806D6-A672-4885-A738-F3216924C677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleProcess", "SingleProcess\SingleProcess.csproj", "{9EACC1B9-F394-4F43-AC2B-BEC1921A8671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchProcess", "WatchProcess\WatchProcess.csproj", "{C6014365-99C8-4E1B-B34E-EF8A3C630FB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例260  主进程调用多个子进程", "实例260  主进程调用多个子进程", "{A74A8CB4-C101-4761-B118-7DA551484765}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例261  设计简单系统任务管理器", "实例261  设计简单系统任务管理器", "{5374BCAA-F89C-49EC-B036-C1CAA6D00DDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例262  设计简单系统服务管理器", "实例262  设计简单系统服务管理器", "{31DF961B-9E12-4177-93A9-4283EA03E581}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例263  禁止进程多次开启", "实例263  禁止进程多次开启", "{A0C15F9B-098E-46A4-A660-6B624F1F577D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例264  实现进程间同步", "实例264  实现进程间同步", "{30F150E6-4E54-4671-90C2-E6C5FD303282}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例265  实现通用守护进程", "实例265  实现通用守护进程", "{D6B9219B-1D5C-4A0B-ABBA-9CFA2BD211C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{599390BD-752E-4EBD-A917-B5EEA1A8A26A}.Debug|x86.ActiveCfg = Debug|x86
+		{599390BD-752E-4EBD-A917-B5EEA1A8A26A}.Debug|x86.Build.0 = Debug|x86
+		{599390BD-752E-4EBD-A917-B5EEA1A8A26A}.Release|x86.ActiveCfg = Release|x86
+		{599390BD-752E-4EBD-A917-B5EEA1A8A26A}.Release|x86.Build.0 = Release|x86
+		{E746D141-17BF-426C-BF6F-4FFC4A6D779D}.Debug|x86.ActiveCfg = Debug|x86
+		{E746D141-17BF-426C-BF6F-4FFC4A6D779D}.Debug|x86.Build.0 = Debug|x86
+		{E746D141-17BF-426C-BF6F-4FFC4A6D779D}.Release|x86.ActiveCfg = Release|x86
+		{E746D141-17BF-426C-BF6F-4FFC4A6D779D}.Release|x86.Build.0 = Release|x86
+		{80E336F9-EE95-4CA4-93E3-7AC6CDE693A3}.Debug|x86.ActiveCfg = Debug|x86
+		{80E336F9-EE95-4CA4-93E3-7AC6CDE693A3}.Debug|x86.Build.0 = Debug|x86
+		{80E336F9-EE95-4CA4-93E3-7AC6CDE693A3}.Release|x86.ActiveCfg = Release|x86
+		{80E336F9-EE95-4CA4-93E3-7AC6CDE693A3}.Release|x86.Build.0 = Release|x86
+		{66E74F66-93D9-49C0-BDF9-E353576ECF0C}.Debug|x86.ActiveCfg = Debug|x86
+		{66E74F66-93D9-49C0-BDF9-E353576ECF0C}.Debug|x86.Build.0 = Debug|x86
+		{66E74F66-93D9-49C0-BDF9-E353576ECF0C}.Release|x86.ActiveCfg = Release|x86
+		{66E74F66-93D9-49C0-BDF9-E353576ECF0C}.Release|x86.Build.0 = Release|x86
+		{67D806D6-A672-4885-A738-F3216924C677}.Debug|x86.ActiveCfg = Debug|x86
+		{67D806D6-A672-4885-A738-F3216924C677}.Debug|x86.Build.0 = Debug|x86
+		{67D806D6-A672-4885-A738-F3216924C677}.Release|x86.ActiveCfg = Release|x86
+		{67D806D6-A672-4885-A738-F3216924C677}.Release|x86.Build.0 = Release|x86
+		{9EACC1B9-F394-4F43-AC2B-BEC1921A8671}.Debug|x86.ActiveCfg = Debug|x86
+		{9EACC1B9-F394-4F43-AC2B-BEC1921A8671}.Debug|x86.Build.0 = Debug|x86
+		{9EACC1B9-F394-4F43-AC2B-BEC1921A8671}.Release|x86.ActiveCfg = Release|x86
+		{9EACC1B9-F394-4F43-AC2B-BEC1921A8671}.Release|x86.Build.0 = Release|x86
+		{C6014365-99C8-4E1B-B34E-EF8A3C630FB8}.Debug|x86.ActiveCfg = Debug|x86
+		{C6014365-99C8-4E1B-B34E-EF8A3C630FB8}.Debug|x86.Build.0 = Debug|x86
+		{C6014365-99C8-4E1B-B34E-EF8A3C630FB8}.Release|x86.ActiveCfg = Release|x86
+		{C6014365-99C8-4E1B-B34E-EF8A3C630FB8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E746D141-17BF-426C-BF6F-4FFC4A6D779D} = {A74A8CB4-C101-4761-B118-7DA551484765}
+		{599390BD-752E-4EBD-A917-B5EEA1A8A26A} = {A74A8CB4-C101-4761-B118-7DA551484765}
+		{80E336F9-EE95-4CA4-93E3-7AC6CDE693A3} = {5374BCAA-F89C-49EC-B036-C1CAA6D00DDF}
+		{66E74F66-93D9-49C0-BDF9-E353576ECF0C} = {31DF961B-9E12-4177-93A9-4283EA03E581}
+		{9EACC1B9-F394-4F43-AC2B-BEC1921A8671} = {A0C15F9B-098E-46A4-A660-6B624F1F577D}
+		{67D806D6-A672-4885-A738-F3216924C677} = {30F150E6-4E54-4671-90C2-E6C5FD303282}
+		{C6014365-99C8-4E1B-B34E-EF8A3C630FB8} = {D6B9219B-1D5C-4A0B-ABBA-9CFA2BD211C7}
+	EndGlobalSection
+EndGlobal

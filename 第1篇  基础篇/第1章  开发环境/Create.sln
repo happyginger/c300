@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{4478474C-D72F-4EF9-ABA2-BF11524EAEF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{0CFB6AB0-D98E-4301-9CD7-167E2C66132E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication", "WindowsFormsApplication\WindowsFormsApplication.csproj", "{20D0631C-CCFC-4C30-A677-6F835D1D5CE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例001  创建控制台应用程序", "实例001  创建控制台应用程序", "{32159E7E-5004-489D-83A7-C123944268A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例002  创建Windows窗体应用程序", "实例002  创建Windows窗体应用程序", "{F0A4876C-8AC2-49CE-A925-C1D404C006E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例003  创建DLL动态链接库", "实例003  创建DLL动态链接库", "{B5A03C90-C818-4BF5-B311-F909641B335F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4478474C-D72F-4EF9-ABA2-BF11524EAEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4478474C-D72F-4EF9-ABA2-BF11524EAEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4478474C-D72F-4EF9-ABA2-BF11524EAEF4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4478474C-D72F-4EF9-ABA2-BF11524EAEF4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4478474C-D72F-4EF9-ABA2-BF11524EAEF4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4478474C-D72F-4EF9-ABA2-BF11524EAEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4478474C-D72F-4EF9-ABA2-BF11524EAEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4478474C-D72F-4EF9-ABA2-BF11524EAEF4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4478474C-D72F-4EF9-ABA2-BF11524EAEF4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4478474C-D72F-4EF9-ABA2-BF11524EAEF4}.Release|x86.ActiveCfg = Release|Any CPU
+		{0CFB6AB0-D98E-4301-9CD7-167E2C66132E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{0CFB6AB0-D98E-4301-9CD7-167E2C66132E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{0CFB6AB0-D98E-4301-9CD7-167E2C66132E}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{0CFB6AB0-D98E-4301-9CD7-167E2C66132E}.Debug|x86.ActiveCfg = Debug|x86
+		{0CFB6AB0-D98E-4301-9CD7-167E2C66132E}.Debug|x86.Build.0 = Debug|x86
+		{0CFB6AB0-D98E-4301-9CD7-167E2C66132E}.Release|Any CPU.ActiveCfg = Release|x86
+		{0CFB6AB0-D98E-4301-9CD7-167E2C66132E}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{0CFB6AB0-D98E-4301-9CD7-167E2C66132E}.Release|Mixed Platforms.Build.0 = Release|x86
+		{0CFB6AB0-D98E-4301-9CD7-167E2C66132E}.Release|x86.ActiveCfg = Release|x86
+		{0CFB6AB0-D98E-4301-9CD7-167E2C66132E}.Release|x86.Build.0 = Release|x86
+		{20D0631C-CCFC-4C30-A677-6F835D1D5CE7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{20D0631C-CCFC-4C30-A677-6F835D1D5CE7}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{20D0631C-CCFC-4C30-A677-6F835D1D5CE7}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{20D0631C-CCFC-4C30-A677-6F835D1D5CE7}.Debug|x86.ActiveCfg = Debug|x86
+		{20D0631C-CCFC-4C30-A677-6F835D1D5CE7}.Debug|x86.Build.0 = Debug|x86
+		{20D0631C-CCFC-4C30-A677-6F835D1D5CE7}.Release|Any CPU.ActiveCfg = Release|x86
+		{20D0631C-CCFC-4C30-A677-6F835D1D5CE7}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{20D0631C-CCFC-4C30-A677-6F835D1D5CE7}.Release|Mixed Platforms.Build.0 = Release|x86
+		{20D0631C-CCFC-4C30-A677-6F835D1D5CE7}.Release|x86.ActiveCfg = Release|x86
+		{20D0631C-CCFC-4C30-A677-6F835D1D5CE7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0CFB6AB0-D98E-4301-9CD7-167E2C66132E} = {32159E7E-5004-489D-83A7-C123944268A1}
+		{20D0631C-CCFC-4C30-A677-6F835D1D5CE7} = {F0A4876C-8AC2-49CE-A925-C1D404C006E4}
+		{4478474C-D72F-4EF9-ABA2-BF11524EAEF4} = {B5A03C90-C818-4BF5-B311-F909641B335F}
+	EndGlobalSection
+EndGlobal

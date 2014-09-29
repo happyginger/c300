@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HideHardDisk", "HideHardDisk\HideHardDisk.csproj", "{099EE360-61AF-496F-B879-1DE33A5D3291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager", "TaskManager\TaskManager.csproj", "{C5D0CC32-9246-41C8-A50F-984C220E3DA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrySearch", "RegistrySearch\RegistrySearch.csproj", "{925A275A-0CB3-4CE8-A223-D04829F6B10B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistryExplorer", "RegistryExplorer\RegistryExplorer.csproj", "{91929126-6549-49D7-B86F-2A76A5CDAED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistryBoot", "RegistryBoot\RegistryBoot.csproj", "{27B0E842-6908-48A3-96E1-C123E08B63DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regist", "Regist\Regist.csproj", "{D281703B-3B5C-4C5A-BFCE-3081C4F3BFFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例172  应用程序开机自动启动", "实例172  应用程序开机自动启动", "{6FD1DBD9-6656-4729-B1BC-93B089CB2B38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例173  禁止使用windows任务管理器", "实例173  禁止使用windows任务管理器", "{44E56079-336F-4578-AE71-6CEC78BD997F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例174  隐藏指定磁盘驱动器", "实例174  隐藏指定磁盘驱动器", "{982C2E3F-B24B-40DC-9A43-53EA0D6EB1C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例175  禁止打开注册表", "实例175  禁止打开注册表", "{B4EC949A-02BF-4A51-8269-4A1CBD994C09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例176  实现注册表树形视图浏览器", "实例176  实现注册表树形视图浏览器", "{B46E6B7D-A3B9-417E-9A04-54DD6B31FE0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例177  在注册表中搜索含有指定信息的项", "实例177  在注册表中搜索含有指定信息的项", "{177AE1F9-8BEB-48A1-BED2-7144597AB049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{099EE360-61AF-496F-B879-1DE33A5D3291}.Debug|x86.ActiveCfg = Debug|x86
+		{099EE360-61AF-496F-B879-1DE33A5D3291}.Debug|x86.Build.0 = Debug|x86
+		{099EE360-61AF-496F-B879-1DE33A5D3291}.Release|x86.ActiveCfg = Release|x86
+		{099EE360-61AF-496F-B879-1DE33A5D3291}.Release|x86.Build.0 = Release|x86
+		{C5D0CC32-9246-41C8-A50F-984C220E3DA4}.Debug|x86.ActiveCfg = Debug|x86
+		{C5D0CC32-9246-41C8-A50F-984C220E3DA4}.Debug|x86.Build.0 = Debug|x86
+		{C5D0CC32-9246-41C8-A50F-984C220E3DA4}.Release|x86.ActiveCfg = Release|x86
+		{C5D0CC32-9246-41C8-A50F-984C220E3DA4}.Release|x86.Build.0 = Release|x86
+		{925A275A-0CB3-4CE8-A223-D04829F6B10B}.Debug|x86.ActiveCfg = Debug|x86
+		{925A275A-0CB3-4CE8-A223-D04829F6B10B}.Debug|x86.Build.0 = Debug|x86
+		{925A275A-0CB3-4CE8-A223-D04829F6B10B}.Release|x86.ActiveCfg = Release|x86
+		{925A275A-0CB3-4CE8-A223-D04829F6B10B}.Release|x86.Build.0 = Release|x86
+		{91929126-6549-49D7-B86F-2A76A5CDAED4}.Debug|x86.ActiveCfg = Debug|x86
+		{91929126-6549-49D7-B86F-2A76A5CDAED4}.Debug|x86.Build.0 = Debug|x86
+		{91929126-6549-49D7-B86F-2A76A5CDAED4}.Release|x86.ActiveCfg = Release|x86
+		{91929126-6549-49D7-B86F-2A76A5CDAED4}.Release|x86.Build.0 = Release|x86
+		{27B0E842-6908-48A3-96E1-C123E08B63DF}.Debug|x86.ActiveCfg = Debug|x86
+		{27B0E842-6908-48A3-96E1-C123E08B63DF}.Debug|x86.Build.0 = Debug|x86
+		{27B0E842-6908-48A3-96E1-C123E08B63DF}.Release|x86.ActiveCfg = Release|x86
+		{27B0E842-6908-48A3-96E1-C123E08B63DF}.Release|x86.Build.0 = Release|x86
+		{D281703B-3B5C-4C5A-BFCE-3081C4F3BFFE}.Debug|x86.ActiveCfg = Debug|x86
+		{D281703B-3B5C-4C5A-BFCE-3081C4F3BFFE}.Debug|x86.Build.0 = Debug|x86
+		{D281703B-3B5C-4C5A-BFCE-3081C4F3BFFE}.Release|x86.ActiveCfg = Release|x86
+		{D281703B-3B5C-4C5A-BFCE-3081C4F3BFFE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{27B0E842-6908-48A3-96E1-C123E08B63DF} = {6FD1DBD9-6656-4729-B1BC-93B089CB2B38}
+		{C5D0CC32-9246-41C8-A50F-984C220E3DA4} = {44E56079-336F-4578-AE71-6CEC78BD997F}
+		{099EE360-61AF-496F-B879-1DE33A5D3291} = {982C2E3F-B24B-40DC-9A43-53EA0D6EB1C9}
+		{D281703B-3B5C-4C5A-BFCE-3081C4F3BFFE} = {B4EC949A-02BF-4A51-8269-4A1CBD994C09}
+		{91929126-6549-49D7-B86F-2A76A5CDAED4} = {B46E6B7D-A3B9-417E-9A04-54DD6B31FE0A}
+		{925A275A-0CB3-4CE8-A223-D04829F6B10B} = {177AE1F9-8BEB-48A1-BED2-7144597AB049}
+	EndGlobalSection
+EndGlobal

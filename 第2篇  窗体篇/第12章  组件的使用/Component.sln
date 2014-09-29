@@ -1,0 +1,97 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentTimer", "ComponentTimer\ComponentTimer.csproj", "{575B30BB-46DF-4011-B258-4E28A24E7968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentEventLog", "ComponentEventLog\ComponentEventLog.csproj", "{6C874AE6-B26E-4484-B637-611D90915F5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentBackgroundWorker", "ComponentBackgroundWorker\ComponentBackgroundWorker.csproj", "{3A64D677-5576-4497-A228-8DBBC8E9874F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentErrorProvider", "ComponentErrorProvider\ComponentErrorProvider.csproj", "{3C948664-7C83-4549-AFF2-74E03D781738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentProcess", "ComponentProcess\ComponentProcess.csproj", "{C6BFE8EF-925A-4838-9F71-6BC218960D4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentImageList", "ComponentImageList\ComponentImageList.csproj", "{21984E00-6364-434F-B396-BFC057719623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentColorDialog", "ComponentColorDialog\ComponentColorDialog.csproj", "{D8CDFDCA-8EEA-478B-AC3E-2271A66CEE56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentOpenFileDialog", "ComponentOpenFileDialog\ComponentOpenFileDialog.csproj", "{19D3E032-1FA9-4355-ADB3-27976D2ED405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentFontDialog", "ComponentFontDialog\ComponentFontDialog.csproj", "{B2C3BF59-616C-4D7A-972B-CF3761E77888}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例139  制作时钟--Timer组件", "实例139  制作时钟--Timer组件", "{B0B09923-9209-43F0-B01F-28748F91BC6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例140  读写系统日志--EventLog组件", "实例140  读写系统日志--EventLog组件", "{8711CA02-AFDC-4533-817B-A0BBBE05327E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例141  向文件中写入数据--BackgroundWorker组件", "实例141  向文件中写入数据--BackgroundWorker组件", "{C56AEFE2-0190-4F19-9299-A49479501251}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例142  密码错误提示--ErrorProvider组件", "实例142  密码错误提示--ErrorProvider组件", "{162E5C61-B691-418F-A672-0A80F6657717}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例143  打开控制台程序--Process组件", "实例143  打开控制台程序--Process组件", "{E17F688E-D19A-4844-98B5-68203BD48756}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例144  制作动画--ImageList组件", "实例144  制作动画--ImageList组件", "{F07F4438-C46E-4931-BFA0-22F65E538806}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例145  改变窗体背景颜色--ColorDialog对话框", "实例145  改变窗体背景颜色--ColorDialog对话框", "{25E023D1-7274-45E1-B5B8-5D8FA55F56FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例146  加载窗体背景图片--OpenFileDialog对话框", "实例146  加载窗体背景图片--OpenFileDialog对话框", "{B88B6025-2CC3-4B83-9FE5-455FB9687C7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例147  改变控件字体--FontDialog对话框", "实例147  改变控件字体--FontDialog对话框", "{851F364D-0AB8-4996-B9F9-8A328B0112C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575B30BB-46DF-4011-B258-4E28A24E7968}.Debug|x86.ActiveCfg = Debug|x86
+		{575B30BB-46DF-4011-B258-4E28A24E7968}.Debug|x86.Build.0 = Debug|x86
+		{575B30BB-46DF-4011-B258-4E28A24E7968}.Release|x86.ActiveCfg = Release|x86
+		{575B30BB-46DF-4011-B258-4E28A24E7968}.Release|x86.Build.0 = Release|x86
+		{6C874AE6-B26E-4484-B637-611D90915F5D}.Debug|x86.ActiveCfg = Debug|x86
+		{6C874AE6-B26E-4484-B637-611D90915F5D}.Debug|x86.Build.0 = Debug|x86
+		{6C874AE6-B26E-4484-B637-611D90915F5D}.Release|x86.ActiveCfg = Release|x86
+		{6C874AE6-B26E-4484-B637-611D90915F5D}.Release|x86.Build.0 = Release|x86
+		{3A64D677-5576-4497-A228-8DBBC8E9874F}.Debug|x86.ActiveCfg = Debug|x86
+		{3A64D677-5576-4497-A228-8DBBC8E9874F}.Debug|x86.Build.0 = Debug|x86
+		{3A64D677-5576-4497-A228-8DBBC8E9874F}.Release|x86.ActiveCfg = Release|x86
+		{3A64D677-5576-4497-A228-8DBBC8E9874F}.Release|x86.Build.0 = Release|x86
+		{3C948664-7C83-4549-AFF2-74E03D781738}.Debug|x86.ActiveCfg = Debug|x86
+		{3C948664-7C83-4549-AFF2-74E03D781738}.Debug|x86.Build.0 = Debug|x86
+		{3C948664-7C83-4549-AFF2-74E03D781738}.Release|x86.ActiveCfg = Release|x86
+		{3C948664-7C83-4549-AFF2-74E03D781738}.Release|x86.Build.0 = Release|x86
+		{C6BFE8EF-925A-4838-9F71-6BC218960D4A}.Debug|x86.ActiveCfg = Debug|x86
+		{C6BFE8EF-925A-4838-9F71-6BC218960D4A}.Debug|x86.Build.0 = Debug|x86
+		{C6BFE8EF-925A-4838-9F71-6BC218960D4A}.Release|x86.ActiveCfg = Release|x86
+		{C6BFE8EF-925A-4838-9F71-6BC218960D4A}.Release|x86.Build.0 = Release|x86
+		{21984E00-6364-434F-B396-BFC057719623}.Debug|x86.ActiveCfg = Debug|x86
+		{21984E00-6364-434F-B396-BFC057719623}.Debug|x86.Build.0 = Debug|x86
+		{21984E00-6364-434F-B396-BFC057719623}.Release|x86.ActiveCfg = Release|x86
+		{21984E00-6364-434F-B396-BFC057719623}.Release|x86.Build.0 = Release|x86
+		{D8CDFDCA-8EEA-478B-AC3E-2271A66CEE56}.Debug|x86.ActiveCfg = Debug|x86
+		{D8CDFDCA-8EEA-478B-AC3E-2271A66CEE56}.Debug|x86.Build.0 = Debug|x86
+		{D8CDFDCA-8EEA-478B-AC3E-2271A66CEE56}.Release|x86.ActiveCfg = Release|x86
+		{D8CDFDCA-8EEA-478B-AC3E-2271A66CEE56}.Release|x86.Build.0 = Release|x86
+		{19D3E032-1FA9-4355-ADB3-27976D2ED405}.Debug|x86.ActiveCfg = Debug|x86
+		{19D3E032-1FA9-4355-ADB3-27976D2ED405}.Debug|x86.Build.0 = Debug|x86
+		{19D3E032-1FA9-4355-ADB3-27976D2ED405}.Release|x86.ActiveCfg = Release|x86
+		{19D3E032-1FA9-4355-ADB3-27976D2ED405}.Release|x86.Build.0 = Release|x86
+		{B2C3BF59-616C-4D7A-972B-CF3761E77888}.Debug|x86.ActiveCfg = Debug|x86
+		{B2C3BF59-616C-4D7A-972B-CF3761E77888}.Debug|x86.Build.0 = Debug|x86
+		{B2C3BF59-616C-4D7A-972B-CF3761E77888}.Release|x86.ActiveCfg = Release|x86
+		{B2C3BF59-616C-4D7A-972B-CF3761E77888}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{575B30BB-46DF-4011-B258-4E28A24E7968} = {B0B09923-9209-43F0-B01F-28748F91BC6F}
+		{6C874AE6-B26E-4484-B637-611D90915F5D} = {8711CA02-AFDC-4533-817B-A0BBBE05327E}
+		{3A64D677-5576-4497-A228-8DBBC8E9874F} = {C56AEFE2-0190-4F19-9299-A49479501251}
+		{3C948664-7C83-4549-AFF2-74E03D781738} = {162E5C61-B691-418F-A672-0A80F6657717}
+		{C6BFE8EF-925A-4838-9F71-6BC218960D4A} = {E17F688E-D19A-4844-98B5-68203BD48756}
+		{21984E00-6364-434F-B396-BFC057719623} = {F07F4438-C46E-4931-BFA0-22F65E538806}
+		{D8CDFDCA-8EEA-478B-AC3E-2271A66CEE56} = {25E023D1-7274-45E1-B5B8-5D8FA55F56FD}
+		{19D3E032-1FA9-4355-ADB3-27976D2ED405} = {B88B6025-2CC3-4B83-9FE5-455FB9687C7B}
+		{B2C3BF59-616C-4D7A-972B-CF3761E77888} = {851F364D-0AB8-4996-B9F9-8A328B0112C0}
+	EndGlobalSection
+EndGlobal

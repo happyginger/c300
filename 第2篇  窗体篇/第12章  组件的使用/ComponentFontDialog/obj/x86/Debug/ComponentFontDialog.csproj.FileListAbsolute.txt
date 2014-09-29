@@ -1,0 +1,7 @@
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentFontDialog\bin\Debug\ComponentFontDialog.exe
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentFontDialog\bin\Debug\ComponentFontDialog.pdb
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentFontDialog\obj\x86\Debug\ComponentFontDialog.FormFontDialog.resources
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentFontDialog\obj\x86\Debug\ComponentFontDialog.Properties.Resources.resources
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentFontDialog\obj\x86\Debug\ComponentFontDialog.csproj.GenerateResource.Cache
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentFontDialog\obj\x86\Debug\ComponentFontDialog.exe
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentFontDialog\obj\x86\Debug\ComponentFontDialog.pdb

@@ -1,0 +1,7 @@
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentTimer\bin\Debug\ComponentTimer.exe
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentTimer\bin\Debug\ComponentTimer.pdb
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentTimer\obj\x86\Debug\ComponentTimer.FormTimer.resources
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentTimer\obj\x86\Debug\ComponentTimer.Properties.Resources.resources
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentTimer\obj\x86\Debug\ComponentTimer.csproj.GenerateResource.Cache
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentTimer\obj\x86\Debug\ComponentTimer.exe
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentTimer\obj\x86\Debug\ComponentTimer.pdb

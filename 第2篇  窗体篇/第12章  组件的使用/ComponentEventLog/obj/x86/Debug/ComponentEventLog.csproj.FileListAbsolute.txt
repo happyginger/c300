@@ -1,0 +1,7 @@
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentEventLog\bin\Debug\ComponentEventLog.exe
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentEventLog\bin\Debug\ComponentEventLog.pdb
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentEventLog\obj\x86\Debug\ComponentEventLog.FormEventLog.resources
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentEventLog\obj\x86\Debug\ComponentEventLog.Properties.Resources.resources
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentEventLog\obj\x86\Debug\ComponentEventLog.csproj.GenerateResource.Cache
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentEventLog\obj\x86\Debug\ComponentEventLog.exe
+V:\C#经典实例300个\实例代码\第2篇  窗体篇\第12章  组件的使用\ComponentEventLog\obj\x86\Debug\ComponentEventLog.pdb

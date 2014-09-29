@@ -1,0 +1,58 @@
+﻿<Window x:Class="WpfButtonBrush.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+<!--实心画刷-->
+<SolidColorBrush x:Key="solideBrush" Color="Cyan"/>
+<!--线性渐变画刷-->
+<LinearGradientBrush x:Key="linearBrush" StartPoint="0,0" EndPoint="1,1">
+    <GradientStop Color="Red" Offset="0"/>
+    <GradientStop Color="Yellow" Offset="0.3"/>
+    <GradientStop Color="Lime" Offset="0.7"/>
+    <GradientStop Color="Blue" Offset="1"/>
+</LinearGradientBrush>
+<!--圆形渐变画刷-->
+<RadialGradientBrush x:Key="radialBrush" GradientOrigin="0.6,0.6" RadiusX="0.5" RadiusY="0.6">
+    <GradientStop Color="Red" Offset="0"/>
+    <GradientStop Color="Yellow" Offset="0.6"/>
+    <GradientStop Color="Lime" Offset="0.9"/>
+    <GradientStop Color="Blue" Offset="1.2"/>
+</RadialGradientBrush>
+<!--自定义画刷-->
+<DrawingBrush x:Key="drawingBrush">
+    <DrawingBrush.Drawing>
+        <GeometryDrawing>
+            <GeometryDrawing.Geometry>
+                <EllipseGeometry RadiusX="0.5" RadiusY="0.5"/>
+            </GeometryDrawing.Geometry>
+            <GeometryDrawing.Brush>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="0.5,1">
+                    <GradientStop Color="Red" Offset="0"/>
+                    <GradientStop Color="Yellow" Offset="0.3"/>
+                    <GradientStop Color="Lime" Offset="0.7"/>
+                    <GradientStop Color="Blue" Offset="1"/>
+                </LinearGradientBrush>
+            </GeometryDrawing.Brush>
+            <GeometryDrawing.Pen>
+                <Pen Brush="Fuchsia" Thickness="0.02"/>
+            </GeometryDrawing.Pen>
+        </GeometryDrawing>
+    </DrawingBrush.Drawing>
+</DrawingBrush>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+<Button Background="{StaticResource ResourceKey=solideBrush}" Content="按钮一" Margin="50"/>
+<Button Background="{StaticResource ResourceKey=linearBrush}" Content="按钮一" Grid.Column="1" Margin="50"/>
+<Button Background="{StaticResource ResourceKey=radialBrush}" Content="按钮一" Grid.Row="1" Margin="50"/>
+<Button Background="{StaticResource ResourceKey=drawingBrush}" Content="按钮一" Grid.Column="1" Grid.Row="1" Margin="50"/>
+    </Grid>
+</Window>
